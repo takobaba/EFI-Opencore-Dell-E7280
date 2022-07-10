@@ -1,15 +1,15 @@
 # EFI Dell Latitude E7280 Hackintosh Opencore
 
-OC 0.7.9
+OpenCore 0.8.2
 
-MacOS Monterey 12.3.1
+MacOS Monterey 12.4
 
 Dell Latitude 7280
 
-CPU: i5 Kaby Lake
+CPU: Intel i5 Kaby Lake 7300U
 
-GPU: HD 620
+GPU: Intel HD 620
 
-NVME SSD, 256 GB
+NVME SSD: SK Hynix SC308 256 GB
 
-Everything Works(trackpa, intel wifi and all sorta stuff)
+Screen Reso: 1366 x 768
